@@ -1,7 +1,7 @@
 FROM openjdk:16-alpine
 COPY . /usr/src/myapp
 WORKDIR /usr/src/myapp
-RUN javac DemoApplication.java
+RUN javac ./src/main/java/com/example/demo/DemoApplication.java
 EXPOSE 8080
 CMD ["java", "DemoApplication"]
 
