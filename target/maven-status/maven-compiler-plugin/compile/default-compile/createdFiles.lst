@@ -1,4 +1,4 @@
-com\example\demo\JavaPostgreSqlVersion.class
-com\example\demo\DemoApplication.class
-com\example\demo\Product.class
-com\example\demo\ProductServiceController.class
+com/example/demo/Product.class
+com/example/demo/DemoApplication.class
+com/example/demo/ProductServiceController.class
+com/example/demo/JavaPostgreSqlVersion.class
